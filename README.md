@@ -1,2 +1,2 @@
 # Arduino-Helps
-It's an Library for Arduino!
+A Arduino is a Micorcontroller Plattform
